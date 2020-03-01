@@ -1,0 +1,1 @@
+An application inteded to demo a bug/oversight/feature of Fody.Costura.
